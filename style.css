@@ -276,10 +276,10 @@ header h1{
     width: 30vw;
     position: absolute;
     border-radius: 50%;
-    background: linear-gradient(to top right,#221707,#10001f);
+    background: linear-gradient(to top right,#221707e1,#10001fe1);
     top: 55%;
     left: 25%;
-    filter: blur(70px);
+    filter: blur(40px);
     animation: mid 5s ease-in-out infinite alternate;
 }
 @keyframes mid{
@@ -695,7 +695,7 @@ header h1{
     width: 70vw;
     position: absolute;
     border-radius: 50%;
-    background: linear-gradient(to top right,#221707,#0e001b);
+    background: linear-gradient(to top right,#221707,#0e001bfd);
     top: 35%;
     left: 25%;
     filter: blur(70px);

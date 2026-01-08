@@ -837,7 +837,7 @@ header h1{
     position: fixed;
     z-index: 9;
     height: 100vh;
-    width: 80%;
+    width: 100%;
     color: #ffd09b;
     background-color: rgb(5, 3, 7);
     bottom: 0;
